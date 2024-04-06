@@ -1,0 +1,12 @@
+[package]
+name = "idle"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Collection of idle strategies to be used by thread(s) when they have no work to perform."
+readme = "./README.md"
+documentation = "https://docs.rs/idle"
+repository = "https://github.com/HaveFunTrading/idle"
+keywords = ["idle", "strategy", "async", "agrona"]
+categories = ["concurrency"]
+rust-version = "1.56.1"
