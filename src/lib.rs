@@ -1,6 +1,6 @@
 //! Collection of idle strategies to be used by thread(s) when they have no work to perform.
 //!
-//! # Examples
+//! ## Example
 //!
 //! ```no_run
 //! use std::time::Duration;
@@ -21,7 +21,7 @@ use std::time::Duration;
 /// Collection of idle strategies to be used by thread(s) when they have no work to perform.
 /// Requires `work_count` to be passed that for some strategies is used as hint and ignored otherwise.
 ///
-/// # Examples
+/// ## Example
 ///
 /// ```no_run
 /// use std::time::Duration;
