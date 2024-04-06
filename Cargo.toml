@@ -1,6 +1,6 @@
 [package]
 name = "idle"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 license = "MIT"
 description = "Collection of idle strategies to be used by thread(s) when they have no work to perform."
